@@ -1,3 +1,3 @@
 # zhong
 My first
-I love :coffee:, :pizza:, and dancer:. 
+I love :coffee:, :pizza:, and :dancer:. 
